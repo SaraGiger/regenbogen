@@ -4,3 +4,4 @@ Die Farben des Regenbogens:
 -violett
 -grün
 - blau
+-Schwarz
