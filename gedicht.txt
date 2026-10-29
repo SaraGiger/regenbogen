@@ -3,3 +3,4 @@ Die Farben des Regenbogens:
 -rot
 -violett
 -grün
+- gaga
